@@ -1,2 +1,3 @@
 main2
-this is a new state from branch main
+<<<<<<< HEAD
+this is a new state from branch main, this is a new state from branch feat
